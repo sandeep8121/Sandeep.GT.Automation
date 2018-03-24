@@ -1,0 +1,79 @@
+C:\SafireAutomation\Framework\bin\Debug\app.config
+C:\SafireAutomation\Framework\bin\Debug\Configuration\ConfigTest.xml
+C:\SafireAutomation\Framework\bin\Debug\Configuration\ConfigDev.xml
+C:\SafireAutomation\Framework\bin\Debug\Framework.dll.config
+C:\SafireAutomation\Framework\bin\Debug\Framework.dll
+C:\SafireAutomation\Framework\bin\Debug\Framework.pdb
+C:\SafireAutomation\Framework\bin\Debug\Excel.dll
+C:\SafireAutomation\Framework\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\SafireAutomation\Framework\bin\Debug\Newtonsoft.Json.dll
+C:\SafireAutomation\Framework\bin\Debug\TechTalk.SpecFlow.dll
+C:\SafireAutomation\Framework\bin\Debug\WebDriver.dll
+C:\SafireAutomation\Framework\bin\Debug\WebDriver.Support.dll
+C:\SafireAutomation\Framework\bin\Debug\Excel.pdb
+C:\SafireAutomation\Framework\bin\Debug\Newtonsoft.Json.xml
+C:\SafireAutomation\Framework\bin\Debug\WebDriver.xml
+C:\SafireAutomation\Framework\bin\Debug\WebDriver.Support.xml
+C:\SafireAutomation\Framework\obj\Debug\Framework.dll
+C:\SafireAutomation\Framework\obj\Debug\Framework.pdb
+F:\APS\APS Automation\SafireAutomation\Framework\obj\Debug\Framework.csprojResolveAssemblyReference.cache
+F:\APS\APS Automation\SafireAutomation\Framework\obj\Debug\Framework.dll
+F:\APS\APS Automation\SafireAutomation\Framework\obj\Debug\Framework.pdb
+F:\APS\APS Automation\SafireAutomation\Framework\bin\Debug\Configuration\ConfigTest.xml
+F:\APS\APS Automation\SafireAutomation\Framework\bin\Debug\Configuration\ConfigDev.xml
+F:\APS\APS Automation\SafireAutomation\Framework\bin\Debug\app.config
+F:\APS\APS Automation\SafireAutomation\Framework\bin\Debug\Framework.dll.config
+F:\APS\APS Automation\SafireAutomation\Framework\bin\Debug\Framework.dll
+F:\APS\APS Automation\SafireAutomation\Framework\bin\Debug\Framework.pdb
+F:\APS\APS Automation\SafireAutomation\Framework\bin\Debug\Excel.dll
+F:\APS\APS Automation\SafireAutomation\Framework\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\APS\APS Automation\SafireAutomation\Framework\bin\Debug\Newtonsoft.Json.dll
+F:\APS\APS Automation\SafireAutomation\Framework\bin\Debug\WebDriver.dll
+F:\APS\APS Automation\SafireAutomation\Framework\bin\Debug\WebDriver.Support.dll
+F:\APS\APS Automation\SafireAutomation\Framework\bin\Debug\Excel.pdb
+F:\APS\APS Automation\SafireAutomation\Framework\bin\Debug\Newtonsoft.Json.xml
+F:\APS\APS Automation\SafireAutomation\Framework\bin\Debug\WebDriver.xml
+F:\APS\APS Automation\SafireAutomation\Framework\bin\Debug\WebDriver.Support.xml
+C:\Users\pujaris\Music\Auto Frameworks\SafireAutomation\Framework\bin\Debug\app.config
+C:\Users\pujaris\Music\Auto Frameworks\SafireAutomation\Framework\bin\Debug\Configuration\ConfigTest.xml
+C:\Users\pujaris\Music\Auto Frameworks\SafireAutomation\Framework\bin\Debug\Configuration\ConfigDev.xml
+C:\Users\pujaris\Music\Auto Frameworks\SafireAutomation\Framework\bin\Debug\IEDriverServer.exe
+C:\Users\pujaris\Music\Auto Frameworks\SafireAutomation\Framework\bin\Debug\Framework.dll.config
+C:\Users\pujaris\Music\Auto Frameworks\SafireAutomation\Framework\bin\Debug\Framework.dll
+C:\Users\pujaris\Music\Auto Frameworks\SafireAutomation\Framework\bin\Debug\Framework.pdb
+C:\Users\pujaris\Music\Auto Frameworks\SafireAutomation\Framework\bin\Debug\Excel.dll
+C:\Users\pujaris\Music\Auto Frameworks\SafireAutomation\Framework\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\pujaris\Music\Auto Frameworks\SafireAutomation\Framework\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pujaris\Music\Auto Frameworks\SafireAutomation\Framework\bin\Debug\Protractor.dll
+C:\Users\pujaris\Music\Auto Frameworks\SafireAutomation\Framework\bin\Debug\WebDriver.dll
+C:\Users\pujaris\Music\Auto Frameworks\SafireAutomation\Framework\bin\Debug\WebDriver.Support.dll
+C:\Users\pujaris\Music\Auto Frameworks\SafireAutomation\Framework\bin\Debug\Excel.pdb
+C:\Users\pujaris\Music\Auto Frameworks\SafireAutomation\Framework\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pujaris\Music\Auto Frameworks\SafireAutomation\Framework\bin\Debug\Protractor.pdb
+C:\Users\pujaris\Music\Auto Frameworks\SafireAutomation\Framework\bin\Debug\Protractor.xml
+C:\Users\pujaris\Music\Auto Frameworks\SafireAutomation\Framework\bin\Debug\WebDriver.xml
+C:\Users\pujaris\Music\Auto Frameworks\SafireAutomation\Framework\bin\Debug\WebDriver.Support.xml
+C:\Users\pujaris\Music\Auto Frameworks\SafireAutomation\Framework\obj\Debug\Framework.dll
+C:\Users\pujaris\Music\Auto Frameworks\SafireAutomation\Framework\obj\Debug\Framework.pdb
+E:\GT.Automation\Framework\bin\Debug\app.config
+E:\GT.Automation\Framework\bin\Debug\Configuration\ConfigTest.xml
+E:\GT.Automation\Framework\bin\Debug\Configuration\ConfigDev.xml
+E:\GT.Automation\Framework\bin\Debug\IEDriverServer.exe
+E:\GT.Automation\Framework\bin\Debug\Framework.dll.config
+E:\GT.Automation\Framework\bin\Debug\Framework.dll
+E:\GT.Automation\Framework\bin\Debug\Framework.pdb
+E:\GT.Automation\Framework\bin\Debug\Excel.dll
+E:\GT.Automation\Framework\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\GT.Automation\Framework\bin\Debug\Newtonsoft.Json.dll
+E:\GT.Automation\Framework\bin\Debug\Protractor.dll
+E:\GT.Automation\Framework\bin\Debug\TechTalk.SpecFlow.dll
+E:\GT.Automation\Framework\bin\Debug\WebDriver.dll
+E:\GT.Automation\Framework\bin\Debug\WebDriver.Support.dll
+E:\GT.Automation\Framework\bin\Debug\Excel.pdb
+E:\GT.Automation\Framework\bin\Debug\Newtonsoft.Json.xml
+E:\GT.Automation\Framework\bin\Debug\Protractor.pdb
+E:\GT.Automation\Framework\bin\Debug\Protractor.xml
+E:\GT.Automation\Framework\bin\Debug\WebDriver.xml
+E:\GT.Automation\Framework\bin\Debug\WebDriver.Support.xml
+E:\GT.Automation\Framework\obj\Debug\Framework.dll
+E:\GT.Automation\Framework\obj\Debug\Framework.pdb

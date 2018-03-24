@@ -1,0 +1,180 @@
+Reading config file: Done C:\SafireAutomation\UI Automation\bin\Debug\Configuration\ConfigDev.xml
+Starting chromedriver baroiana, DEVSGINFO: Done
+Starting chromedriver for real baroiana, DEVSGINFO: Done for real
+Reading config file: Done C:\SafireAutomation\UI Automation\bin\Debug\Configuration\ConfigDev.xml
+Starting chromedriver baroiana, DEVSGINFO: Done
+Starting chromedriver for real baroiana, DEVSGINFO: Done for real
+Reading config file: Done C:\SafireAutomation\UI Automation\bin\Debug\Configuration\ConfigDev.xml
+Reading config file: Done C:\SafireAutomation\UI Automation\bin\Debug\Configuration\ConfigDev.xml
+Starting chromedriver pujaris, DEVSGINFO: Done
+Starting chromedriver for real pujaris, DEVSGINFO: Done for real
+Reading config file: Done C:\SafireAutomation\UI Automation\bin\Debug\Configuration\ConfigDev.xml
+Starting chromedriver baroiana, DEVSGINFO: Done
+Starting chromedriver for real baroiana, DEVSGINFO: Done for real
+Reading config file: Done C:\SafireAutomation\UI Automation\bin\Debug\Configuration\ConfigDev.xml
+Starting chromedriver pujaris, DEVSGINFO: Done
+Starting chromedriver for real pujaris, DEVSGINFO: Done for real
+Reading config file: Done C:\SafireAutomation\UI Automation\bin\Debug\Configuration\ConfigDev.xml
+Starting chromedriver pujaris, DEVSGINFO: Done
+Starting chromedriver for real pujaris, DEVSGINFO: Done for real
+Reading config file: Done C:\SafireAutomation\UI Automation\bin\Debug\Configuration\ConfigDev.xml
+Starting chromedriver pujaris, DEVSGINFO: Done
+Starting chromedriver for real pujaris, DEVSGINFO: Done for real
+Reading config file: Done C:\SafireAutomation\UI Automation\bin\Debug\Configuration\ConfigDev.xml
+Starting chromedriver pujaris, DEVSGINFO: Done
+Starting chromedriver for real pujaris, DEVSGINFO: Done for real
+Reading config file: Done C:\SafireAutomation\UI Automation\bin\Debug\Configuration\ConfigDev.xml
+Starting chromedriver pujaris, DEVSGINFO: Done
+Starting chromedriver for real pujaris, DEVSGINFO: Done for real
+Reading config file: Done C:\SafireAutomation\UI Automation\bin\Debug\Configuration\ConfigDev.xml
+Starting chromedriver pujaris, DEVSGINFO: Done
+Starting chromedriver for real pujaris, DEVSGINFO: Done for real
+Reading config file: Done C:\SafireAutomation\UI Automation\bin\Debug\Configuration\ConfigDev.xml
+Starting chromedriver pujaris, DEVSGINFO: Done
+Starting chromedriver for real pujaris, DEVSGINFO: Done for real
+Reading config file: Done C:\SafireAutomation\UI Automation\bin\Debug\Configuration\ConfigDev.xml
+Starting chromedriver pujaris, DEVSGINFO: Done
+Starting chromedriver for real pujaris, DEVSGINFO: Done for real
+Reading config file: Done C:\SafireAutomation\UI Automation\bin\Debug\Configuration\ConfigDev.xml
+Starting chromedriver pujaris, DEVSGINFO: Done
+Starting chromedriver for real pujaris, DEVSGINFO: Done for real
+Reading config file: Done C:\SafireAutomation\UI Automation\bin\Debug\Configuration\ConfigDev.xml
+Starting chromedriver pujaris, DEVSGINFO: Done
+Starting chromedriver for real pujaris, DEVSGINFO: Done for real
+Reading config file: Done C:\SafireAutomation\UI Automation\bin\Debug\Configuration\ConfigDev.xml
+Starting chromedriver pujaris, DEVSGINFO: Done
+Starting chromedriver for real pujaris, DEVSGINFO: Done for real
+Reading config file: Done C:\SafireAutomation\UI Automation\bin\Debug\Configuration\ConfigDev.xml
+Starting chromedriver pujaris, DEVSGINFO: Done
+Starting chromedriver for real pujaris, DEVSGINFO: Done for real
+Reading config file: Done C:\SafireAutomation\UI Automation\bin\Debug\Configuration\ConfigDev.xml
+Starting chromedriver pujaris, DEVSGINFO: Done
+Starting chromedriver for real pujaris, DEVSGINFO: Done for real
+Reading config file: Done C:\SafireAutomation\UI Automation\bin\Debug\Configuration\ConfigDev.xml
+Starting chromedriver baroiana, DEVSGINFO: Done
+Starting chromedriver for real baroiana, DEVSGINFO: Done for real
+Starting chromedriver pujaris, DEVSGINFO: Done
+Starting chromedriver for real pujaris, DEVSGINFO: Done for real
+Reading config file: Done C:\SafireAutomation\UI Automation\bin\Debug\Configuration\ConfigDev.xml
+Starting chromedriver pujaris, DEVSGINFO: Done
+Starting chromedriver for real pujaris, DEVSGINFO: Done for real
+Starting chromedriver baroiana, DEVSGINFO: Done
+Starting chromedriver for real baroiana, DEVSGINFO: Done for real
+Reading config file: Done C:\SafireAutomation\UI Automation\bin\Debug\Configuration\ConfigDev.xml
+Starting chromedriver pujaris, DEVSGINFO: Done
+Starting chromedriver for real pujaris, DEVSGINFO: Done for real
+Reading config file: Done C:\SafireAutomation\UI Automation\bin\Debug\Configuration\ConfigDev.xml
+Starting chromedriver pujaris, DEVSGINFO: Done
+Starting chromedriver for real pujaris, DEVSGINFO: Done for real
+Reading config file: Done C:\SafireAutomation\UI Automation\bin\Debug\Configuration\ConfigDev.xml
+Starting chromedriver pujaris, DEVSGINFO: Done
+Starting chromedriver for real pujaris, DEVSGINFO: Done for real
+Reading config file: Done C:\SafireAutomation\UI Automation\bin\Debug\Configuration\ConfigDev.xml
+Starting chromedriver pujaris, DEVSGINFO: Done
+Starting chromedriver for real pujaris, DEVSGINFO: Done for real
+Reading config file: Done C:\SafireAutomation\UI Automation\bin\Debug\Configuration\ConfigDev.xml
+Starting chromedriver pujaris, DEVSGINFO: Done
+Starting chromedriver for real pujaris, DEVSGINFO: Done for real
+Starting chromedriver baroiana, DEVSGINFO: Done
+Starting chromedriver for real baroiana, DEVSGINFO: Done for real
+Reading config file: Done C:\SafireAutomation\UI Automation\bin\Debug\Configuration\ConfigDev.xml
+Starting chromedriver pujaris, DEVSGINFO: Done
+Starting chromedriver for real pujaris, DEVSGINFO: Done for real
+Starting chromedriver baroiana, DEVSGINFO: Done
+Starting chromedriver for real baroiana, DEVSGINFO: Done for real
+Reading config file: Done C:\SafireAutomation\UI Automation\bin\Debug\Configuration\ConfigDev.xml
+Starting chromedriver pujaris, DEVSGINFO: Done
+Starting chromedriver for real pujaris, DEVSGINFO: Done for real
+Starting chromedriver baroiana, DEVSGINFO: Done
+Starting chromedriver for real baroiana, DEVSGINFO: Done for real
+Reading config file: Done C:\SafireAutomation\UI Automation\bin\Debug\Configuration\ConfigDev.xml
+Starting chromedriver pujaris, DEVSGINFO: Done
+Starting chromedriver for real pujaris, DEVSGINFO: Done for real
+Starting chromedriver baroiana, DEVSGINFO: Done
+Starting chromedriver for real baroiana, DEVSGINFO: Done for real
+Reading config file: Done C:\SafireAutomation\UI Automation\bin\Debug\Configuration\ConfigDev.xml
+Starting chromedriver pujaris, DEVSGINFO: Done
+Starting chromedriver for real pujaris, DEVSGINFO: Done for real
+Starting chromedriver baroiana, DEVSGINFO: Done
+Starting chromedriver for real baroiana, DEVSGINFO: Done for real
+Reading config file: Done C:\SafireAutomation\UI Automation\bin\Debug\Configuration\ConfigDev.xml
+Starting chromedriver pujaris, DEVSGINFO: Done
+Starting chromedriver for real pujaris, DEVSGINFO: Done for real
+Starting chromedriver baroiana, DEVSGINFO: Done
+Starting chromedriver for real baroiana, DEVSGINFO: Done for real
+Reading config file: Done C:\SafireAutomation\UI Automation\bin\Debug\Configuration\ConfigDev.xml
+Starting chromedriver pujaris, DEVSGINFO: Done
+Starting chromedriver for real pujaris, DEVSGINFO: Done for real
+Starting chromedriver baroiana, DEVSGINFO: Done
+Starting chromedriver for real baroiana, DEVSGINFO: Done for real
+Reading config file: Done C:\SafireAutomation\UI Automation\bin\Debug\Configuration\ConfigDev.xml
+Starting chromedriver pujaris, DEVSGINFO: Done
+Starting chromedriver for real pujaris, DEVSGINFO: Done for real
+Reading config file: Done C:\SafireAutomation\UI Automation\bin\Debug\Configuration\ConfigDev.xml
+Reading config file: Done C:\SafireAutomation\UI Automation\bin\Debug\Configuration\ConfigDev.xml
+Reading config file: Done C:\SafireAutomation\UI Automation\bin\Debug\Configuration\ConfigDev.xml
+Reading config file: Done C:\SafireAutomation\UI Automation\bin\Debug\Configuration\ConfigDev.xml
+Reading config file: Done C:\SafireAutomation\UI Automation\bin\Debug\Configuration\ConfigDev.xml
+Reading config file: Done C:\SafireAutomation\UI Automation\bin\Debug\Configuration\ConfigDev.xml
+Starting chromedriver pujaris, DEVSGINFO: Done
+Starting chromedriver for real pujaris, DEVSGINFO: Done for real
+Reading config file: Done C:\SafireAutomation\UI Automation\bin\Debug\Configuration\ConfigDev.xml
+Starting chromedriver pujaris, DEVSGINFO: Done
+Starting chromedriver for real pujaris, DEVSGINFO: Done for real
+Reading config file: Done C:\SafireAutomation\UI Automation\bin\Debug\Configuration\ConfigDev.xml
+Starting chromedriver pujaris, DEVSGINFO: Done
+Starting chromedriver for real pujaris, DEVSGINFO: Done for real
+Reading config file: Done C:\SafireAutomation\UI Automation\bin\Debug\Configuration\ConfigDev.xml
+Starting chromedriver pujaris, DEVSGINFO: Done
+Starting chromedriver for real pujaris, DEVSGINFO: Done for real
+Reading config file: Done C:\SafireAutomation\UI Automation\bin\Debug\Configuration\ConfigDev.xml
+Reading config file: Done C:\SafireAutomation\UI Automation\bin\Debug\Configuration\ConfigDev.xml
+Reading config file: Done C:\SafireAutomation\UI Automation\bin\Debug\Configuration\ConfigDev.xml
+Starting chromedriver pujaris, DEVSGINFO: Done
+Starting chromedriver for real pujaris, DEVSGINFO: Done for real
+Starting chromedriver pujaris, DEVSGINFO: Done
+Starting chromedriver for real pujaris, DEVSGINFO: Done for real
+Reading config file: Done C:\SafireAutomation\UI Automation\bin\Debug\Configuration\ConfigDev.xml
+Starting chromedriver pujaris, DEVSGINFO: Done
+Starting chromedriver for real pujaris, DEVSGINFO: Done for real
+Starting chromedriver pujaris, DEVSGINFO: Done
+Starting chromedriver for real pujaris, DEVSGINFO: Done for real
+Reading config file: Done C:\SafireAutomation\UI Automation\bin\Debug\Configuration\ConfigDev.xml
+Starting chromedriver pujaris, DEVSGINFO: Done
+Starting chromedriver for real pujaris, DEVSGINFO: Done for real
+Starting chromedriver pujaris, DEVSGINFO: Done
+Starting chromedriver for real pujaris, DEVSGINFO: Done for real
+Reading config file: Done C:\SafireAutomation\UI Automation\bin\Debug\Configuration\ConfigDev.xml
+Starting chromedriver pujaris, DEVSGINFO: Done
+Starting chromedriver for real pujaris, DEVSGINFO: Done for real
+Starting chromedriver pujaris, DEVSGINFO: Done
+Starting chromedriver for real pujaris, DEVSGINFO: Done for real
+Starting chromedriver baroiana, DEVSGINFO: Done
+Starting chromedriver for real baroiana, DEVSGINFO: Done for real
+Reading config file: Done C:\SafireAutomation\UI Automation\bin\Debug\Configuration\ConfigDev.xml
+Starting chromedriver pujaris, DEVSGINFO: Done
+Starting chromedriver for real pujaris, DEVSGINFO: Done for real
+Starting chromedriver pujaris, DEVSGINFO: Done
+Starting chromedriver for real pujaris, DEVSGINFO: Done for real
+Starting chromedriver pujaris, DEVSGINFO: Done
+Starting chromedriver for real pujaris, DEVSGINFO: Done for real
+Starting chromedriver baroiana, DEVSGINFO: Done
+Starting chromedriver for real baroiana, DEVSGINFO: Done for real
+Reading config file: Done C:\SafireAutomation\UI Automation\bin\Debug\Configuration\ConfigDev.xml
+Reading config file: Done C:\SafireAutomation\UI Automation\bin\Debug\Configuration\ConfigDev.xml
+Starting chromedriver pujaris, DEVSGINFO: Done
+Starting chromedriver for real pujaris, DEVSGINFO: Done for real
+Starting chromedriver pujaris, DEVSGINFO: Done
+Starting chromedriver for real pujaris, DEVSGINFO: Done for real
+Starting chromedriver baroiana, DEVSGINFO: Done
+Starting chromedriver for real baroiana, DEVSGINFO: Done for real
+Reading config file: Done C:\SafireAutomation\UI Automation\bin\Debug\Configuration\ConfigDev.xml
+Starting chromedriver pujaris, DEVSGINFO: Done
+Starting chromedriver for real pujaris, DEVSGINFO: Done for real
+Starting chromedriver pujaris, DEVSGINFO: Done
+Starting chromedriver for real pujaris, DEVSGINFO: Done for real
+Starting chromedriver baroiana, DEVSGINFO: Done
+Starting chromedriver for real baroiana, DEVSGINFO: Done for real
+Reading config file: Done C:\SafireAutomation\UI Automation\bin\Debug\Configuration\ConfigDev.xml
+Reading config file: Done C:\SafireAutomation\UI Automation\bin\Debug\Configuration\ConfigDev.xml
+Reading config fileReading config fileReading config fileReading config fileReading config fileReading config fileReading config fileReading config fileReading config fileReading config fileReading config fileReading config fileReading config fileReading config fileReading config fileReading config fileReading config fileReading config fileReading config fileReading config fileReading config fileReading config fileReading config fileReading config fileReading config file

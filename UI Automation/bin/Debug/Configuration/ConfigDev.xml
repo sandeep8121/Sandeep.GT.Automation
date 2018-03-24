@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<FrameworkConfig>
+  <RunSettings>
+    <AUT>https://www.gametwist.com</AUT>    
+    <!-- Possible flag Chrome,Firefox, IE-->
+    <Browser>Chrome</Browser>    
+    <!-- Possible Flag Y, N -->
+    <IsLog></IsLog>    
+    <LogPath></LogPath>    
+    <IsScreenShot>Y</IsScreenShot>
+    <ScreenShotPath></ScreenShotPath>    
+    <ApplicationDb></ApplicationDb>
+    <!-- Different Users for Workflows-->    
+  </RunSettings>
+</FrameworkConfig>
+
