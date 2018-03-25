@@ -77,7 +77,8 @@ namespace UI_Automation.Implementation
                 DriverContext.Driver.WaitForElementToBeClickable(CurrentPage.As<HomePage>().txtNickName, 40);
                 CurrentPage.As<HomePage>().txtNickName.EnterText(shortName);
                 CurrentPage.As<HomePage>().txtPassword.SendKeys(password);
-                CurrentPage =  CurrentPage.As<HomePage>().ClickOnLogin();                
+                CurrentPage =  CurrentPage.As<HomePage>().ClickOnLogin(); 
+                DriverContext.Driver.WaitForElementToBeLoaded(By.Id("main"), 40);
             }
             catch (Exception e)
             {
@@ -113,7 +114,7 @@ namespace UI_Automation.Implementation
                 }
 
                  CommonHelper.IntroduceSleep(2000); //Sorry for this blunder :(
-                //DriverContext.Driver.WaitForDOMReady();
+                 DriverContext.Driver.WaitForElementToBeInDom(By.Id("daily-bonus-popup"), 40);
                 if (CurrentPage.As<RegisterSuccessPage>().isPresentIconWofPopUpClose.Count > 0)
                 {
                     DriverContext.Driver.WaitForElementToBeClickable(CurrentPage.As<RegisterSuccessPage>().popupWheel, 30);
@@ -262,6 +263,7 @@ namespace UI_Automation.Implementation
                 DriverContext.Driver.WaitForDOMReady();
                 var selectedGame = CurrentPage.As<PokerPage>().txtOfSelectedGame[2].Text;
                 CurrentPage = CurrentPage.As<PokerPage>().NavigateToPartyGamesPage();
+                DriverContext.Driver.WaitForElementToBeClickable(CurrentPage.As<PartyGamesPage>().btnCloseEmailConfirmation, 40);
                 pageTitle = DriverContext.Driver.Title;
                 CurrentPage = CurrentPage.As<PartyGamesPage>().CloseEmailConfirmation();
 
