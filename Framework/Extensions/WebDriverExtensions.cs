@@ -114,7 +114,13 @@ namespace Framework.Extensions
         {
             WebDriverWait webDriverWait = new WebDriverWait(driver, TimeSpan.FromSeconds(timeOut));
             webDriverWait.Until(ExpectedConditions.ElementIsVisible(locator));
-        }        
+        } 
+        
+        public static void WaitForElementToBeInDom(this IWebDriver driver, By locator, int timeOut)
+        {
+            WebDriverWait webDriverWait = new WebDriverWait(driver, TimeSpan.FromSeconds(timeOut));
+            webDriverWait.Until(ExpectedConditions.ElementExists(locator));
+        }
 
         public static void WaitForElementToBeLoaded(this IWebDriver driver, By locator, int timeOut)
         {
